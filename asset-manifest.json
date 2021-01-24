@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-todo-reactjs/static/css/main.f3aa8ed8.chunk.css",
+    "main.js": "/praveenorugantitech-todo-reactjs/static/js/main.82d80c23.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-todo-reactjs/static/js/runtime-main.fd8519a4.js",
+    "static/js/2.e9293f7f.chunk.js": "/praveenorugantitech-todo-reactjs/static/js/2.e9293f7f.chunk.js",
+    "index.html": "/praveenorugantitech-todo-reactjs/index.html",
+    "precache-manifest.b538cec00e833862633950b59fe29085.js": "/praveenorugantitech-todo-reactjs/precache-manifest.b538cec00e833862633950b59fe29085.js",
+    "service-worker.js": "/praveenorugantitech-todo-reactjs/service-worker.js",
+    "static/js/2.e9293f7f.chunk.js.LICENSE.txt": "/praveenorugantitech-todo-reactjs/static/js/2.e9293f7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd8519a4.js",
+    "static/js/2.e9293f7f.chunk.js",
+    "static/css/main.f3aa8ed8.chunk.css",
+    "static/js/main.82d80c23.chunk.js"
+  ]
+}
